@@ -9,7 +9,7 @@ This series of notebooks presents recommendations and practices on how to proces
     - Motivation for 
     - 
     
-- [**Section 1: Reading and visualizing a NetCDF file with BSRN solar radiation data**]()
+- [**Section 1: Reading and visualizing a NetCDF file with BSRN solar radiation data**](https://nbviewer.jupyter.org/github/arjdk/AssessingSolar/blob/master/bsrn_netcdf.ipynb)
     - xx
     - xxx
 
