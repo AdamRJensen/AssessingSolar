@@ -1,19 +1,19 @@
 # [Processing of Solar Radiation Measurements in Python](https://github.com/arjdk/AssessingSolar)
 
-![Bayesian Modelling in Python](/graphics/cover.png)
+![Processing of Solar Radiation Measurements in Python](/graphics/cover_photo.png)
 
-Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in learning how to apply bayesian modelling techniques in python ([PYMC3](https://github.com/pymc-devs/pymc3)). This tutorial doesn't aim to be a bayesian statistics tutorial - but rather a programming cookbook for those who understand the fundamental of bayesian statistics and want to learn how to build bayesian models using python. The tutorial sections and topics can be seen below.
+This series of notebooks presents recommendations and practices on how to process solar radiation measurements.
 
 ### Contents
-- [**Introduction**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%200.%20Introduction.ipynb)
+- [**Introduction**]()
     - Motivation for 
     - 
     
-- [**Section 1: Estimating model parameters**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%201.%20Estimating%20model%20parameters.ipynb)
+- [**Section 1: Reading and visualizing a NetCDF file with BSRN solar radiation data**]()
     - xx
     - xxx
 
-- [**Section 2: Model checking & comparison**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%202.%20Model%20checking.ipynb)
+- [**Section 2: Quality check**](https://nbviewer.jupyter.org/github/YvesMSaintDrenan/IEA_PVPS_T16_QC_pynb/blob/master/IEA_PVPS_QCnotebook_v0_0.ipynb)
     - Posterior predictive check
     - Bayes factor
     
