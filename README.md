@@ -20,4 +20,4 @@ This series of notebooks presents recommendations and practices on how to proces
 
 
 ### Note
-This tutorial is actively being worked on. I'm keen to get feedback and welcome ideas/contributions.
+actively worked on. Feedback is appreciated.
