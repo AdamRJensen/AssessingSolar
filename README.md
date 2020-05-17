@@ -2,7 +2,7 @@
 
 ![Processing of Solar Radiation Measurements in Python](/graphics/cover_photo.png)
 
-This series of notebooks presents recommendations and practices on how to process solar radiation measurements.
+This series of notebooks presents best practices and recommendations on how to process solar radiation measurements.
 
 ### Contents
 - [**Introduction**]()
