@@ -6,18 +6,26 @@ This series of notebooks presents best practices and recommendations on how to p
 
 ### Contents
 - [**Introduction**](https://nbviewer.jupyter.org/github/AdamRJensen/AssessingSolar/blob/master/introduction.ipynb)
-    - Motivation for 
-    - 
+    - Motivation 
+    - Getting started
     
 - [**Section 1: Reading a NetCDF file with solar radiation data**](https://nbviewer.jupyter.org/github/arjdk/AssessingSolar/blob/master/bsrn_netcdf.ipynb)
-    - xx
-    - xxx
+    - Reading a NetCDF file with BSRN data
+    - Calculating sun positin
+    - Basic plotting of solar radiation measurements
 
-- [**Section 2: Quality check**](https://nbviewer.jupyter.org/github/YvesMSaintDrenan/IEA_PVPS_T16_QC_pynb/blob/master/IEA_PVPS_QCnotebook_v0_0.ipynb)
-    - Posterior predictive check
-    - Bayes factor
+
     
 
+- [**Section 2: Quality check**](https://nbviewer.jupyter.org/github/YvesMSaintDrenan/IEA_PVPS_T16_QC_pynb/blob/master/IEA_PVPS_QCnotebook_v0_0.ipynb)
+    - Shadow detection
+    - One-component quality checks
+    - Two-component tests (BSRN and SERI QC)
+    - Three-component tests
+
+- [**Section 3: Validation of satellite data**]()
+    - Performance metrics
+    - Benchmarking
 
 ### Note
 actively worked on. Feedback is appreciated.
