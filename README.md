@@ -5,7 +5,7 @@
 This series of notebooks presents best practices and recommendations on how to process solar radiation measurements.
 
 ### Contents
-- [**Introduction**]()
+- [**Introduction**](https://nbviewer.jupyter.org/github/AdamRJensen/AssessingSolar/blob/master/introduction.ipynb)
     - Motivation for 
     - 
     
