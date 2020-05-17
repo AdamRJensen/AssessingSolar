@@ -10,8 +10,9 @@ This series of notebooks presents best practices and recommendations on how to p
     - Getting started
     
 - [**Section 1: Reading a NetCDF file with solar radiation data**](https://nbviewer.jupyter.org/github/arjdk/AssessingSolar/blob/master/bsrn_netcdf.ipynb)
-    - Reading a NetCDF file with BSRN data
-    - Calculating sun positin
+    - Opening and handling NetCDF files
+    - Accessing BSRN data
+    - Calculating sun position
     - Basic plotting of solar radiation measurements
 
 
